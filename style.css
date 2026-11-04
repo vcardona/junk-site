@@ -36,3 +36,7 @@ h2 { font-size: 22px; margin: 40px 0 10px; color: var(--yellow); }
 a { color: var(--yellow); }
 .muted { color: var(--muted); }
 footer { border-top: 1px solid var(--line); margin-top: 60px; padding-block: 24px; color: var(--muted); font-size: 14px; }
+h3 { font-size: 17px; margin: 28px 0 8px; color: var(--ink); }
+.credits { padding-left: 20px; }
+.credits li { margin: 10px 0; }
+pre { white-space: pre-wrap; overflow-wrap: anywhere; background: var(--panel); border: 1px solid var(--line); padding: 14px 16px; font-size: 13px; line-height: 1.5; color: var(--muted); }
